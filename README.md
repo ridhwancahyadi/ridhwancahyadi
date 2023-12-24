@@ -10,8 +10,6 @@ If you want to communicate or collaborate, please feel free to contact me via:
 - 📧 Email: ridhwancahyadi11@gmail.com
 - 💼 LinkedIn: [Ridhwan Cahyadi](https://www.linkedin.com/in/ridhwancahyadi/)
 
-Feel free to explore my repositories, and let's connect! 🚀
-
 ## ✨ About Me
 
 ```python
@@ -47,4 +45,4 @@ my_profile = MyProfile(
 )
 ```
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ridhwancahyadi&langs_count=8&theme=tokyonight)
+### Feel free to explore my repositories, and let's connect! 🚀
