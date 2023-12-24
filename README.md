@@ -1,6 +1,9 @@
 # Hello, World! 👋
 
 ![Ridhwan Cahyadi](https://pbs.twimg.com/profile_banners/1416075743344300041/1703432611/1080x360)
+
+## Introduction
+
 I am Ridhwan Cahyadi, a student majoring in Informatics at Digital Indonesia University of Technology. I am passionate about data analysis and machine learning. In addition, I am also interested in application design and development, both for mobile and web platforms. Currently, I am participating in the Machine Learning Cohort at [Bangkit Academy 2023](https://www.linkedin.com/company/bangkit-academy/mycompany/).
 
 ## 🌐 Connect with Me
